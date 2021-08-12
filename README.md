@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Zeetoyah002
+# Hello there 👋, I'm Zeetoyah002, Nice to meet you all!!
 
 <div align="center">
 <img src="https://telegra.ph/file/2adb2fc330fd8338bd53d.jpg" alt="Zeetoyah002" width="700" />
