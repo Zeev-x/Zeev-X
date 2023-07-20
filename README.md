@@ -1,7 +1,7 @@
 # Hello there 👋, I'm Zeev-x, Nice to meet you all!!
 
 <div align="center">
-<img src="https://telegra.ph/file/2adb2fc330fd8338bd53d.jpg" alt="Zeev-x" width="300" />
+<img src="https://telegra.ph/file/5fcd1f41c8be2ca186a40.jpg" alt="Zeev-x" width="300" />
 <p align="center">
   <a href="https://github.com/Zeev-x"><img title="github" src="https://img.shields.io/badge/Github-Zeev-red.svg?style=for-the-badge&logo=github" /></a>
   <h4 align="center">
