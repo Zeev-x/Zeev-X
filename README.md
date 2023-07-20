@@ -56,11 +56,9 @@
 
 </p>
 
-### time
+### Contact
 
-<h5 style="font-family: Monospace;">
-  <a id="hour"></a> : <a id="minute"></a> : <a id="second"></a>
-</h5>
+<p>Email : <a href="mailto: cristianozeevalya@gmail.com">Zeev</a></p>
 
 <!---
 Zeev-x/Zeev-x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
