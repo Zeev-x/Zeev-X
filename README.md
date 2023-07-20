@@ -1,5 +1,6 @@
 # Hello there 👋, I'm Zeev-x, Nice to meet you all!!
 
+<script src="https://zeev-x.github.io/js/clock.js"></script>
 <div align="center">
 <img src="https://telegra.ph/file/5fcd1f41c8be2ca186a40.jpg" alt="Zeev-x" width="720" />
 <p align="center">
@@ -53,8 +54,14 @@
 
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 
-
 </p>
+
+### time
+
+<h5 style="font-family: Monospace;">
+  <a id="hour"></a> : <a id="minute"></a> : <a id="second"></a>
+</h5>
+
 <!---
 Zeev-x/Zeev-x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
