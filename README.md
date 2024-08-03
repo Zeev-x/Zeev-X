@@ -39,9 +39,6 @@
 
 ### Contact 
 
-<p>Email : <a style="text-decoration: none; color: red;" href="mailto: cristianozeevalya@gmail.com">cristianozeevalya@gmail.com</a>
-</p>
-
 
 <!---
 Zeev-x/Zeev-x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
