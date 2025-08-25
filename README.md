@@ -1,19 +1,17 @@
-# Hello there 👋, I'm Zeev-x, Nice to meet you all!!
-<div align="center">
-  <img src="https://telegra.ph/file/5fcd1f41c8be2ca186a40.jpg" alt="Zeev-x" width="480" />
+# Hello there 👋, I'm Reyette, Nice to meet you all!!
+<div align="center" style="padding-bottom: 30px;">
+  <img src="https://avatars.githubusercontent.com/u/87901027?s=400&u=a31fd4168b042cff22db8a21122391c7a814779d&v=4" alt="Zeev-x" width="30%" /><br><br>
   <p align="center">
     <a href="https://github.com/Zeev-x">
-      <img title="github" src="https://img.shields.io/badge/Github-Zeev-red.svg?style=for-the-badge&logo=github" />
+      <img title="github" src="https://img.shields.io/badge/Github-Reyette%20Roxylious%20Atelier-red.svg?style=for-the-badge&logo=github" />
     </a>
   </p>
-  <h4 align="center">
-    <a href="https://zeev-x.github.io/zee/">Zeev-x</a>
-  </h4>
 </div>
 
 ## About Me
 
-* [Klik here](https://zeev-x.github.io/js) 
+* I am the newbie
+* I am optimus prime 🗿
 
 ## Programming Languages
 <p align="center">
@@ -35,13 +33,6 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
-</p>
-
-## Contact
-<p align="center">
-  <a href="https://github.com/Zeev-x">
-    <img title="GitHub" src="https://img.shields.io/badge/Github-Zeev-red.svg?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
 </p>
 
 <!---
