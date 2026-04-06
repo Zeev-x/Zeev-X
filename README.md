@@ -39,7 +39,6 @@
 ---
 
 ## 📊 GitHub Stats & Streak
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zeev-x&show_icons=true&theme=radical" alt="stats" height="160"/>
+<div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zeev-x&theme=radical" alt="streak" height="160"/>
 </div>
