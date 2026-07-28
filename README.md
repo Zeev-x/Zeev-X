@@ -1,44 +1,51 @@
-<h2 align="center">
-  Hello there 👋, I'm <span style="color:#ff4b5c">Reyette</span> ✨  
-</h2>
+<h1 align="center">✨ Reyette ✨</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Zeev-x/reyette-dlr/refs/heads/main/logo/reyette_project.png" alt="Reyette Logo" width="80%" />
+</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FF4B5C&center=true&vCenter=true&width=600&lines=Frontend+%26+Backend+Explorer;Experimenting+with+Code+%26+Design;Always+learning+new+things+🚀" alt="Typing SVG" />
+</p>
+
+---
+
+## 🌌 Who am I?
+- 🧑‍💻 A curious **developer in progress**  
+- 🤖 Sometimes channeling my inner **Optimus Prime** 🗿  
+- 🎨 Love mixing **tech + design** for modern UI  
+- 🚀 Always tinkering with **frontend, backend, and experiments**  
+
+---
+
+## 🛠️ Tech Toolbox
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Zeev-x/reyette-dlr/refs/heads/main/logo/reyette_project.png" alt="Reyette" width="90%" style="border-radius:50%;" />
-  <br><br>
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=FF4B5C&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!;Frontend+%26+Backend+Enthusiast;Always+learning+new+things+🚀" alt="Typing SVG" width="90%" />
   
-  <p align="center">
-    <a href="https://github.com/Zeev-x">
-      <img title="github" src="https://img.shields.io/badge/Github-Reyette%20Roxylious%20Atelier-red.svg?style=for-the-badge&logo=github" />
-    </a>
-  </p>
+**Languages**  
+
+
+<img src="https://skillicons.dev/icons?i=html,css,js,cpp,python,java" />
+
+
+
+**Frameworks & Libraries**  
+
+
+<img src="https://skillicons.dev/icons?i=react,vue,angular,nodejs,bootstrap,tailwind,jquery" />
+
 </div>
 
 ---
 
-## 🧑‍💻 About Me
-- 🌱 I’m a **newbie developer**  
-- 🤖 Sometimes I feel like **Optimus Prime** 🗿  
-- 🚀 Love experimenting with **frontend & backend**  
-
----
-
-## 🚀 Programming Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,json" />
-</p>
-
----
-
-## 🛠️ Frameworks & Libraries
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,vue,angular,nodejs,bootstrap,tailwind,jquery" />
-</p>
-
----
-
-## 📊 GitHub Stats & Streak
-<div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zeev-x&theme=radical" alt="streak" height="160"/>
+## 📊 GitHub Insights
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zeev-x&theme=radical" height="160"/>
 </div>
+
+---
+
+## 🌐 Connect
+<p align="center">
+  <a href="https://github.com/Zeev-x">
+    <img src="https://img.shields.io/badge/Github-Reyette%20Roxylious%20Atelier-ff4b5c?style=for-the-badge&logo=github" />
+  </a>
+</p>
