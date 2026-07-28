@@ -3,10 +3,10 @@
 </h1>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Zeev-x/reyette-dlr/refs/heads/main/logo/reyette_project.png" alt="Reyette" width="50%" style="border-radius:50%;" />
+  <img src="https://raw.githubusercontent.com/Zeev-x/reyette-dlr/refs/heads/main/logo/reyette_project.png" alt="Reyette" width="90%" style="border-radius:50%;" />
   <br><br>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=FF4B5C&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!;Frontend+%26+Backend+Enthusiast;Always+learning+new+things+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=FF4B5C&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!;Frontend+%26+Backend+Enthusiast;Always+learning+new+things+🚀" alt="Typing SVG" width="90%" />
   
   <p align="center">
     <a href="https://github.com/Zeev-x">
