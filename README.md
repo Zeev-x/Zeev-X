@@ -1,6 +1,6 @@
-<h1 align="center">
+<h2 align="center">
   Hello there 👋, I'm <span style="color:#ff4b5c">Reyette</span> ✨  
-</h1>
+</h2>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Zeev-x/reyette-dlr/refs/heads/main/logo/reyette_project.png" alt="Reyette" width="90%" style="border-radius:50%;" />
