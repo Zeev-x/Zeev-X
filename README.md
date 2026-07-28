@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/87901027?s=400&u=a31fd4168b042cff22db8a21122391c7a814779d&v=4" alt="Reyette" width="200" style="border-radius:50%;" />
+  <img src="https://raw.githubusercontent.com/Zeev-x/reyette-dlr/refs/heads/main/logo/reyette_project.png" alt="Reyette" width="50%" style="border-radius:50%;" />
   <br><br>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=FF4B5C&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!;Frontend+%26+Backend+Enthusiast;Always+learning+new+things+🚀" alt="Typing SVG" />
